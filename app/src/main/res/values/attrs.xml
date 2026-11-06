@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorBg" format="color" />
+    <attr name="colorCard" format="color" />
+    <attr name="colorInk" format="color" />
+    <attr name="colorInkSoft" format="color" />
+    <attr name="colorInkDim" format="color" />
+    <attr name="colorLine" format="color" />
+    <attr name="colorAa" format="color" />
+    <attr name="colorAaSub" format="color" />
+    <attr name="colorBrand" format="color" />
+</resources>

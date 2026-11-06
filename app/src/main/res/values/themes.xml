@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Fiesta" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_screen_light</item>
+        <item name="android:statusBarColor">#F4F8FD</item>
+        <item name="android:navigationBarColor">#D3E2F6</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorAccent">@color/accent</item>
+        <item name="android:textColor">@color/ink</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="colorBg">@color/bg</item>
+        <item name="colorCard">@color/card</item>
+        <item name="colorInk">@color/ink</item>
+        <item name="colorInkSoft">@color/ink_soft</item>
+        <item name="colorInkDim">@color/ink_dim</item>
+        <item name="colorLine">@color/line</item>
+        <item name="colorAa">@color/aa</item>
+        <item name="colorAaSub">@color/aa_sub</item>
+        <item name="colorBrand">@color/accent</item>
+    </style>
+
+    <style name="Theme.Fiesta.Dark" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_screen_dark</item>
+        <item name="android:statusBarColor">#071E4D</item>
+        <item name="android:navigationBarColor">#0E3F8F</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorAccent">@color/accent_dark</item>
+        <item name="android:textColor">@color/ink_dark</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="colorBg">@color/bg_dark</item>
+        <item name="colorCard">@color/card_dark</item>
+        <item name="colorInk">@color/ink_dark</item>
+        <item name="colorInkSoft">@color/ink_soft_dark</item>
+        <item name="colorInkDim">@color/ink_dim_dark</item>
+        <item name="colorLine">@color/line_dark</item>
+        <item name="colorAa">@color/aa_dark</item>
+        <item name="colorAaSub">@color/aa_sub_dark</item>
+        <item name="colorBrand">@color/accent_dark</item>
+    </style>
+</resources>
